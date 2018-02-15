@@ -1,8 +1,10 @@
+#### clone
 ```
 $ git remote -v
 origin  git@github.com:nyu-ossd-s18/git_team_snake.git (fetch)
 origin  git@github.com:nyu-ossd-s18/git_team_snake.git (push)
 ``` 
+#### fork
 ```
 $ git remote -v
 myfork  https://github.com/dazigemm/git_team_snake (fetch)
@@ -10,6 +12,7 @@ myfork  https://github.com/dazigemm/git_team_snake (push)
 origin  git@github.com:nyu-ossd-s18/git_team_snake.git (fetch)
 origin  git@github.com:nyu-ossd-s18/git_team_snake.git (push)
 ```
+#### fork continued
 ```
 $ git remote -v
 ashley  https://github.com/ashleytqy/git_team_snake (fetch)
