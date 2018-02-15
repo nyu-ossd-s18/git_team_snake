@@ -28,3 +28,10 @@ myfork	https://github.com/felixplajer/git_team_snake (push)
 origin	https://github.com/nyu-ossd-s18/git_team_snake.git (fetch)
 origin	https://github.com/nyu-ossd-s18/git_team_snake.git (push)
 ```
+
+#### after making a new branch:
+```
+$ git branch
+  another_branch
+* master
+```
